@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 Program Pzim ;
 var
 nome:string;
@@ -18,4 +26,5 @@ Begin
     else
     writeln(nome,' deve pagar 400,00 reais');
   end
+
 End.
