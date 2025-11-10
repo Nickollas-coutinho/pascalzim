@@ -1,11 +1,3 @@
-
-
-
-
-
-
-
-
 Program Pzim ;
 var
 nome:string;
@@ -28,3 +20,4 @@ Begin
   end
 
 End.
+
